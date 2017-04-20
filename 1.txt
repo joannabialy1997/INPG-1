@@ -4,7 +4,7 @@
 # ~/python/04_1_listy.py
 
 tupla = input("Podaj liczby oddzielone przecinkami: ")
-lista = [] dhbgfhdgbhfdghfgdhgfhjdghfghgfdhgfdhjgfhjdghjfgdhjfdvfhj gedsrfgdh gh
+lista = []gfhgfhfhf
 for i in range(len(tupla)):
     lista.append(int(tupla[i]))
 
